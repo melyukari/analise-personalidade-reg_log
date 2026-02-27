@@ -51,8 +51,6 @@ Apresentando poucos erros de classificação e boa capacidade de generalização
 
 ---
 
-<pre> ## 📂 Estrutura do Projeto ``` analise-personalidade-regressao-logistica/ │ ├── README.md ├── data/ │ └── personality_dataset.csv ├── notebooks/ │ └── regressao_logistica.ipynb ``` </pre>
-
 ## 🚀 Como Executar
 
 Instale as dependências:
